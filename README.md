@@ -106,9 +106,13 @@ This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) 
 ---
 
 ## 📬 Contact
+For questions, collaborations, or data/code requests, please contact:
 
-For questions or collaboration requests, feel free to contact:
+**Qing Zhang**
+Xinjiang Center for Ecological Meteorology and Satellite Remote Sensing, Urumqi, Xinjiang, China
+✉️ Email: wangq@cma.cn
 
-**Your Name**  
-Email: *your_email@domain.com*  
-GitHub: [your_username](https://github.com/your_username)
+**Senhao Liu**
+Aerospace Information Research Institute, Chinese Academy of Sciences, Beijing, China
+✉️ Email: m17396243271@163.com
+GitHub: [noliuxingjk](https://github.com/noliuxingjk)
