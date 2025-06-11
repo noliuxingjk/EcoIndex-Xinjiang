@@ -90,22 +90,28 @@ The analysis in this repository is based on a collection of multi-source, long-t
 
 ---
 
-## 📊 Output Preview *(to be added)*
+## 📊 4_Output Preview *(to be added)*
 
 - Annual EcoIndex and ESI maps (.tif)  
 - Trend significance layers  
 - Driver importance rasters and summary tables  
-- Dominance classification maps (climate, human, mixed)  
+- Dominance classification maps (climate, human, mixed)
+- 
+### 🖼️ Example Figures
+
+<img src="example_results/Figure 2. Spatial Distribution of Key Variables in Xinjiang for 2023.png" alt="Figure 2" width="800"/>
+
+<img src="example_results/Figure 5. Spatiotemporal Patterns of Eco-Hydrological Quadrant Shifts Across Xinjiang from 2001 to 2023.png" alt="Figure 5" width="800"/>
 
 ---
 
-## 📄 License
+## 📄 5_License
 
 This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
 ---
 
-## 📬 Contact
+## 📬 6_Contact
 For questions, collaborations, or data/code requests, please contact:
 
 **Qing Zhang**
